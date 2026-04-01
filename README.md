@@ -1,4 +1,12 @@
 ## Hi there 👋
+**Introduction**
+
+안녕하세요 정재영입니다. 집 가고 싶습니다. 침대에 눕고 싶습니다.
+
+**career**
+1. 영남대학교 2학년 재학 중
+2. 육군 제7보병사단 병장 만기전역
+
 
 <!--
 **wodud0108/wodud0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
